@@ -18,17 +18,21 @@ hi there! i'm Nurul alya :wave:
 
 ## MY EDUCATION:
 
- ## Sekolah Menengah Agama Al-Falah,Kemaman, Terengganu. ##
+ ### Sekolah Menengah Agama Al-Falah,Kemaman, Terengganu. ###
  
-*Sijil Pelajaran Malaysia*
+##### *Sijil Pelajaran Malaysia Result: 3A 2B 1C+ 2C 3D* #####
 
-01/2012 - 12/2016 Result: 3A 2B 1C+ 2C 3D
+###### *01/2012 - 12/2016* ###### 
 
-Sekolah Menengah Kebangsaan Agama Durian
-Guling, Marang, Terengganu
-Sijil Tinggi Persekolahan Malaysia
-04/2017 - 12/2018 Result: 2.67
-Universiti Utara Malaysia, Sintok, Kedah
-Bachelor of Science with Honours (Decision
-Science)
-12/22 - Current CGPA: 3.4
+### Sekolah Menengah Kebangsaan Agama Durian Guling, Marang, Terengganu.### 
+
+##### *Sijil Tinggi Persekolahan Malaysia* #####
+
+###### *04/2017 - 12/2018 Result: 2.67* ######
+
+### Universiti Utara Malaysia, Sintok, Kedah. ### 
+
+##### *Bachelor of Science with Honours (Decision
+Science* #####
+
+###### *12/22 - Current CGPA: 3.4* ######
