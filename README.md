@@ -24,7 +24,7 @@ hi there! i'm Nurul alya :wave:
 
 ###### *01/2012 - 12/2016* ###### 
 
-### Sekolah Menengah Kebangsaan Agama Durian Guling, Marang, Terengganu.### 
+### Sekolah Menengah Kebangsaan Agama Durian Guling, Marang, Terengganu. ### 
 
 ##### *Sijil Tinggi Persekolahan Malaysia* #####
 
