@@ -32,7 +32,6 @@ hi there! i'm Nurul alya :wave:
 
 ### Universiti Utara Malaysia, Sintok, Kedah. ### 
 
-##### *Bachelor of Science with Honours (Decision
-Science* #####
+##### *Bachelor of Science with Honours Decision Science* #####  
 
 ###### *12/22 - Current CGPA: 3.4* ######
