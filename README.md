@@ -1,8 +1,8 @@
 # PortFolio
 
-## My Info:
+## ABOUT ME:
 
-<img src="https://github.com/nuruLalya67/PortFolio/blob/main/index.jpg" width="200" height="250"/>
+<img src="https://github.com/nuruLalya67/PortFolio/blob/main/photo_2023-02-01_20-24-42.jpg" width="200" height="260"/>
 
 hi there! i'm nuruLalya:wave:
 
