@@ -64,7 +64,14 @@ The main objective of the study is to propose SA with different restart temperat
 The purpose of this study is to propose SA – Restart temperature using different restart temperature to solve MKP. The aim is to provide a better algorithm and performance solution of MKP. The proposed algorithm can be used to solve real application of MKP such as capital budgeting, cargo loading, resource allocation problem, container loading, stock cutting.
 
 LITERATURE REVIEW
+
 RESEARCH METHODOLOGY
+
+DATA ANALYSIS & RESULT
+
+CONCLUSION
+
+## RESEARCH PROGRESS:
 
 
 
