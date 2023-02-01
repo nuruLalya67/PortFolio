@@ -41,7 +41,7 @@ hi there! i'm Nurul alya :wave:
 Problem Statement
 
 
-| SOLVING MULTIDIMENSIONAL KNAPSACK PROBLEM (MKP) BY USING SIMULATED ANNEALING WITH DIFFERENT RESTART TEMPERATURE. |
+             |SOLVING MULTIDIMENSIONAL KNAPSACK PROBLEM (MKP) BY USING SIMULATED ANNEALING WITH DIFFERENT RESTART TEMPERATURE|
 
 
 Metaheuristic is found to be a reasonable method to solve MKP, such as SA. SA is one good metaheuristic method for solving MKP which can handle a large and unpredictable data. Nevertheless, SA is found to always possible to become stuck at local minima. Previous studies shows that a cooling schedule of SA plays important rules to reduce SA from being stuck at local minima. One of the approaches is to restart the temperature adaptively. However, previous studies are lacking in discussing on how to increase temperature. Hence, this study proposed SA with various restart temperature for solving MKP.
@@ -51,15 +51,15 @@ Research Question
 The research question for this study on solving MKP are:
 1)	How to improve SA through different restart temperature in solving MKP?
 2)	How efficient is the proposed different restart temperature in solving MKP?
-
-1.4	Research Objectives
+	
+Research Objectives
 
 The main objective of the study is to propose SA with different restart temperature in solving MKP. The sub-objectives of this study are: 
 
 1)	To identify the suitable restart temperature for SA in solving MKP.
 2)	To evaluate the performance of different restart temperature in SA to solving MKP.
 
-1.6	Research significant
+Research significant
  
 The purpose of this study is to propose SA – Restart temperature using different restart temperature to solve MKP. The aim is to provide a better algorithm and performance solution of MKP. The proposed algorithm can be used to solve real application of MKP such as capital budgeting, cargo loading, resource allocation problem, container loading, stock cutting.
 
@@ -73,21 +73,47 @@ CONCLUSION
 
 ## RESEARCH PROGRESS:
 
-PROGRESS UPDATE PER WEEK, WEEK 1 - WEEK 14
+                                    PROGRESS UPDATE PER WEEK, WEEK 1 - WEEK 14
 
 WEEK 1
+
 WEEK 2
+
 WEEK 3
+
 WEEK 4
+
 WEEK 5
+
 WEEK 6
+
 WEEK 7
+
 WEEK 8
+
 WEEK 9
+
 WEEK 10
+
 WEEK 11
+
 WEEK 12
+
 WEEK 13
+
+* For the final consultation on the model and poster. I have present to my supervisor, Dr. Syariza my final poster that i will print out. 
+
+* My SV advice me to illustrate the acceptence value through the iterations and add significant of study.
+
+* i immediately prepared the poster to be print on tomorrow morning.
+
+* My final poster it shown below:
+
+
+
+DECISION SCIENCE SYMPOSIUM DAY
+
+
 WEEK 14 
 
 
