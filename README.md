@@ -1,5 +1,9 @@
 # PortFolio
 
+## My Info:
+
+<img src="https://github.com/nuruLalya67/PortFolio/blob/main/index.jpg" width="200" height="250"/>
+
 hi there! i'm nuruLalya:wave:
 
   :woman_with_headscarf: My name is Nurul Alya Najeba Bt Shahrudin (270136)
