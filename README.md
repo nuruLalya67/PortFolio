@@ -38,12 +38,34 @@ hi there! i'm Nurul alya :wave:
 
 ## RESEARCH DESCRIPTION:
 
-
-1.2	Problem Statement
+Problem Statement
 
 
 | SOLVING MULTIDIMENSIONAL KNAPSACK PROBLEM (MKP) BY USING SIMULATED ANNEALING WITH DIFFERENT RESTART TEMPERATURE. |
 
 
 Metaheuristic is found to be a reasonable method to solve MKP, such as SA. SA is one good metaheuristic method for solving MKP which can handle a large and unpredictable data. Nevertheless, SA is found to always possible to become stuck at local minima. Previous studies shows that a cooling schedule of SA plays important rules to reduce SA from being stuck at local minima. One of the approaches is to restart the temperature adaptively. However, previous studies are lacking in discussing on how to increase temperature. Hence, this study proposed SA with various restart temperature for solving MKP.
+
+Research Question
+
+The research question for this study on solving MKP are:
+1)	How to improve SA through different restart temperature in solving MKP?
+2)	How efficient is the proposed different restart temperature in solving MKP?
+
+1.4	Research Objectives
+
+The main objective of the study is to propose SA with different restart temperature in solving MKP. The sub-objectives of this study are: 
+
+1)	To identify the suitable restart temperature for SA in solving MKP.
+2)	To evaluate the performance of different restart temperature in SA to solving MKP.
+
+1.6	Research significant
+ 
+The purpose of this study is to propose SA – Restart temperature using different restart temperature to solve MKP. The aim is to provide a better algorithm and performance solution of MKP. The proposed algorithm can be used to solve real application of MKP such as capital budgeting, cargo loading, resource allocation problem, container loading, stock cutting.
+
+LITERATURE REVIEW
+RESEARCH METHODOLOGY
+
+
+
 
