@@ -85,6 +85,11 @@ CONCLUSION
 
 WEEK 1- search balik yg lepas
 
+* for the first week of this semester, meeting with our Supervisor(SV) through webax.
+
+* 
+
+
 WEEK 2 -start buat rangka
 
 WEEK 3- cooding untuk random ang generate neigbor
