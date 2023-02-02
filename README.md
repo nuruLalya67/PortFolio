@@ -75,29 +75,30 @@ CONCLUSION
 
                                     PROGRESS UPDATE PER WEEK, WEEK 1 - WEEK 14
 
-WEEK 1
+WEEK 1- search balik yg lepas
 
-WEEK 2
+WEEK 2 -start buat rangka
 
-WEEK 3
+WEEK 3- cooding untuk random ang generate neigbor
 
-WEEK 4
+WEEK 4- fix the erro
 
-WEEK 5
+WEEK 5- add 
 
-WEEK 6
+WEEK 6 - bincang howto increase temperature, decide 
 
-WEEK 7
+WEEK 7- model siap
 
-WEEK 8
+WEEK 8- susun data
 
-WEEK 9
+WEEK 9- convert data to excel and netbeans
 
-WEEK 10
+WEEK 10- run the data
 
-WEEK 11
+WEEK 11- catat 10 kali run
 
-WEEK 12
+WEEK 12-buat poster
+
 
 WEEK 13
 
@@ -113,8 +114,15 @@ WEEK 13
 
 DECISION SCIENCE SYMPOSIUM DAY
 
+Presentation went well and i can answer the question from my evaluator, Dr Nurul Naziha Hawari and Dr. Aida Benjaamin.
+After the symposium day we need to go dewan seminar 2 for closing ceremony
+All of participant, receive the participating certificate.
+Participant that have a good and complete poster got the award ... gold bronze and silver.
+
 
 WEEK 14 
+
+Lastly, the only task i had to do is complete the final research report and recheck again with my SV and Submit. 
 
 
 
