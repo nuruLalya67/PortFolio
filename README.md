@@ -118,6 +118,9 @@ WEEK 13
 
 * My final poster it shown below:
 
+<img src="https://github.com/nuruLalya67/PortFolio/blob/main/RESEARCH.png" width="900" height="1100"/>
+
+
 
 
 DECISION SCIENCE SYMPOSIUM DAY
