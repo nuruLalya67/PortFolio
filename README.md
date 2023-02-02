@@ -64,9 +64,13 @@ Research significant
 The purpose of this study is to propose SA – Restart temperature using different restart temperature to solve MKP. The aim is to provide a better algorithm and performance solution of MKP. The proposed algorithm can be used to solve real application of MKP such as capital budgeting, cargo loading, resource allocation problem, container loading, stock cutting.
 
 LITERATURE REVIEW
+
 Based on previous studies, there are various mechanism that use metaheuristics to solve MKP such as SA (Fubin and Rui, 2007), GA (Hill and Hiremath, 2005), hybrid approach (Hanafi et al, 2010). Zhou, et al. (2008) that depicts chaotic neural network combined with heuristic strategy. Mian (2012) present how to solve MKP by using a genetic algorithm and constraint handling technique by proposing three genetic algorithm. 
 
 Besides that, some review on restart temperature for other domain,
+
+<img src="https://github.com/nuruLalya67/PortFolio/blob/main/gamPNG.PNG" width="950" height="260"/>
+
 
 
 RESEARCH METHODOLOGY
