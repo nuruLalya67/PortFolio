@@ -94,11 +94,21 @@ WEEK 1
 * Dr, introduced the dataset for MKP from OR-Libray and formulate a mathematical model based on the dataset.
 
 WEEK 2 -start buat rangka
-* 
+* For week 2 all decision science's student attend our first programmed meeting. the talk is about how to conduct research subject. 
+* in this talk, Dr mention to create e-portfilio and its importand for our sub.
+* Dr, also display all importand date such as date for report submission, presentation and so on.
+  
 
-WEEK 3- cooding untuk random ang generate neigbor
+WEEK 3- cooding untuk random ang generate neighbor
+
+* Third week, research study start with find a basic cooding of Simulated Annealing(SA) to make improvement insolving MKP.
+* we change our cooding using basic SA in solving assignment problem to SA for solving MKP
+* start with generate initial solution randomly, continue with objective function, generate neighbor, temperature setting and so on.
+
 
 WEEK 4- fix the erro
+
+* After succ
 
 WEEK 5- add 
 
