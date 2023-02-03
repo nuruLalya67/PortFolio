@@ -108,11 +108,16 @@ WEEK 3- cooding untuk random ang generate neighbor
 
 WEEK 4- fix the erro
 
-* After succ
+* After finish improve basic Sa to solve MKP, we run the cooding to see the result and there are no error message display, but have some error in calculations, result for calculated manually its not same with output in NeatBeans. 
+* Next, we find where the errors and try to fix the problem.   
 
-WEEK 5- add 
+
 
 WEEK 6 - bincang howto increase temperature, decide 
+
+* The algorithm has been successful run without error message. After that we start improve the SA.
+* Before start the improve algorithm , my Svgive task who have to find some technique for how to restart the temperature, when to restat the temperature and how to improve reheat.
+* From the task i have to find some technique for how to 
 
 WEEK 7- model siap
 
