@@ -83,14 +83,18 @@ CONCLUSION
 
                                     PROGRESS UPDATE PER WEEK, WEEK 1 - WEEK 14
 
-WEEK 1- search balik yg lepas
+WEEK 1
+
+<img src="https://github.com/nuruLalya67/PortFolio/blob/main/week1.1.PNG" width="500" height="260"/>
 
 * for the first week of this semester, meeting with our Supervisor(SV) through webax.
 
-* Dr, briefing research 2 what content that have to complete and finding in chapter 4,5 and fullreport.
-* Dr, introduced the dataset for MKP from OR-Libray andformulate a mathematical model based on the dataset.
+* Dr, briefing research 2 the content that needed to complete, findings in chapter 4,5 and full report.
+
+* Dr, introduced the dataset for MKP from OR-Libray and formulate a mathematical model based on the dataset.
 
 WEEK 2 -start buat rangka
+* 
 
 WEEK 3- cooding untuk random ang generate neigbor
 
