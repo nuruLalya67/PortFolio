@@ -87,8 +87,8 @@ WEEK 1- search balik yg lepas
 
 * for the first week of this semester, meeting with our Supervisor(SV) through webax.
 
-* 
-
+* Dr, briefing research 2 what content that have to complete and finding in chapter 4,5 and fullreport.
+* Dr, introduced the dataset for MKP from OR-Libray andformulate a mathematical model based on the dataset.
 
 WEEK 2 -start buat rangka
 
