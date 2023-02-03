@@ -121,8 +121,11 @@ WEEK 6 - bincang howto increase temperature, decide
 
 WEEK 7- model siap
 * dsscuss with SV which technique are suitable, and decide to used linear increment, geometric and random number.
+* 
 * we modified the algorithm to add formula for technique that we decide to do. 
-* Formula for linear increasment is T=T+*alpha* , for geometric is T=T*alpha* while for random number is T=T*10* random value.
+* 
+* Formula for linear increasment is T=T+*alpha* , for geometric is T=T * *alpha* while for random number is T=T*10* random value.
+* 
 * The algorithm are completely finish and the result and ouput is correct.  
 
 WEEK 8- susun data
