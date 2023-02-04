@@ -140,6 +140,8 @@ WEEK 10- run the data
 * For geometric also use different value of alpha, alpha=2,4,5.
 
 WEEK 11- catat 10 kali run
+
+
 * untuk setiap 
 * catat satu2 nilai untu acceptance value to 
 
