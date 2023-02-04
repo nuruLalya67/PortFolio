@@ -116,27 +116,37 @@ WEEK 4- fix the erro
 WEEK 6 - bincang howto increase temperature, decide 
 
 * The algorithm has been successful run without error message. After that we start improve the SA.
+
 * Before start the improve algorithm , my Svgive task who have to find some technique for how to restart the temperature, when to restat the temperature and how to improve reheat.
 * From the task i have find some techniques for how to increase the restart temperature.  
 
-WEEK 7- model siap
+WEEK 7- 
 * dsscuss with SV which technique are suitable, and decide to used linear increment, geometric and random number.
-* 
+
 * we modified the algorithm to add formula for technique that we decide to do. 
-* 
+ 
 * Formula for linear increasment is T=T+*alpha* , for geometric is T=T * *alpha* while for random number is T=T*10* random value.
-* 
+ 
 * The algorithm are completely finish and the result and ouput is correct.  
 
-WEEK 8- susun data
+WEEK 8 & 9 
 
-WEEK 9- convert data to excel and netbeans
+* For this 2 weeks, we collect 10 dataset in OR-Library and convert to microsoft ecxel and NetBeans.
 
 WEEK 10- run the data
 
+* Next  we run each of dataset in NetBeans using different restart temperature. 
+* For linear increment, we use 3 different value which is alpha=10, 50 and 100
+* For geometric also use different value of alpha, alpha=2,4,5.
+
 WEEK 11- catat 10 kali run
+* untuk setiap 
+
+
 
 WEEK 12-buat poster
+* This week i more focus about the content and design of the poster  
+* beside, i also show the poster to my SV of my works to get some advice as improvement from madam. 
 
 
 WEEK 13
