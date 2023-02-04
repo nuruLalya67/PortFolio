@@ -87,28 +87,28 @@ WEEK 1
 
 <img src="https://github.com/nuruLalya67/PortFolio/blob/main/week1.1.PNG" width="500" height="260"/>
 
-* for the first week of this semester, meeting with our Supervisor(SV) through webax.
+* For the first week of this semester, I had meeting with my Supervisor(SV) through webex.
 
-* Dr, briefing research 2 the content that needed to complete, findings in chapter 4,5 and full report.
+* Dr. give briefing about research 2 contents that needed to complete, findings in chapter 4,5 and, full report.
 
-* Dr, introduced the dataset for MKP from OR-Libray and formulate a mathematical model based on the dataset.
+* Dr. introduced the dataset for MKP from OR-Libray and, formulate a mathematical model based on the dataset.
 
 WEEK 2 -start buat rangka
-* For week 2 all decision science's student attend our first programmed meeting. the talk is about how to conduct research subject. 
-* in this talk, Dr mention to create e-portfilio and its importand for our sub.
-* Dr, also display all importand date such as date for report submission, presentation and so on.
+* For week 2, all decision science's student attend our first programmed meeting. The talk is about conducting research subject. 
+* In this talk, Dr. mention to create an e-portfilio and, explain its importants for our sub.
+* Dr. also display all important date such report submission, presentation and so on.
   
 
 WEEK 3- cooding untuk random ang generate neighbor
 
-* Third week, research study start with find a basic cooding of Simulated Annealing(SA) to make improvement insolving MKP.
-* we change our cooding using basic SA in solving assignment problem to SA for solving MKP
-* start with generate initial solution randomly, continue with objective function, generate neighbor, temperature setting and so on.
+* In the third week, research study start with finding a basic coding of Simulated Annealing (SA) to make improvement in solving MKP.
+* I change our coding using basic SA that used to solve assignment problems for solving MKP.
+* I start with generating initial solution randomly, continue with objective function, generate neighbor, temperature setting and so on.
 
 
-WEEK 4- fix the erro
+WEEK 4- fix the error
 
-* After finish improve basic Sa to solve MKP, we run the cooding to see the result and there are no error message display, but have some error in calculations, result for calculated manually its not same with output in NeatBeans. 
+* After finishing improving basic Sa to solve MKP, we run the cooding to see the result and there are no error message display, but have some error in calculations, result for calculated manually its not same with output in NeatBeans. 
 * Next, we find where the errors and try to fix the problem.   
 
 
