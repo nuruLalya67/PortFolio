@@ -159,10 +159,6 @@ WEEK 11
 <img src="https://github.com/nuruLalya67/PortFolio/blob/main/week%2011.PNG" width="700" height="350"/>
 
 
-* untuk setiap 
-* catat satu2 nilai untu acceptance value to 
-
-
 
 WEEK 12-buat poster
 
