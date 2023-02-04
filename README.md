@@ -38,7 +38,7 @@ hi there! i'm Nurul alya :wave:
 
 ## RESEARCH DESCRIPTION:
 
-Problem Statement
+### Problem Statement ###
 
 
              |SOLVING MULTIDIMENSIONAL KNAPSACK PROBLEM (MKP) BY USING SIMULATED ANNEALING WITH DIFFERENT RESTART TEMPERATURE|
@@ -46,24 +46,24 @@ Problem Statement
 
 Metaheuristic is found to be a reasonable method to solve MKP, such as SA. SA is one good metaheuristic method for solving MKP which can handle a large and unpredictable data. Nevertheless, SA is found to always possible to become stuck at local minima. Previous studies shows that a cooling schedule of SA plays important rules to reduce SA from being stuck at local minima. One of the approaches is to restart the temperature adaptively. However, previous studies are lacking in discussing on how to increase temperature. Hence, this study proposed SA with various restart temperature for solving MKP.
 
-Research Question
+### Research Question ###
 
 The research question for this study on solving MKP are:
 1)	How to improve SA through different restart temperature in solving MKP?
 2)	How efficient is the proposed different restart temperature in solving MKP?
 	
-Research Objectives
+### Research Objectives ###
 
 The main objective of the study is to propose SA with different restart temperature in solving MKP. The sub-objectives of this study are: 
 
 1)	To identify the suitable restart temperature for SA in solving MKP.
 2)	To evaluate the performance of different restart temperature in SA to solving MKP.
 
-Research significant
+### Research significant ###
  
 The purpose of this study is to propose SA – Restart temperature using different restart temperature to solve MKP. The aim is to provide a better algorithm and performance solution of MKP. The proposed algorithm can be used to solve real application of MKP such as capital budgeting, cargo loading, resource allocation problem, container loading, stock cutting.
 
-LITERATURE REVIEW
+### LITERATURE REVIEW ###
 
 Based on previous studies, there are various mechanism that use metaheuristics to solve MKP such as SA (Fubin and Rui, 2007), GA (Hill and Hiremath, 2005), hybrid approach (Hanafi et al, 2010). Zhou, et al. (2008) that depicts chaotic neural network combined with heuristic strategy. Mian (2012) present how to solve MKP by using a genetic algorithm and constraint handling technique by proposing three genetic algorithm. 
 
@@ -73,11 +73,11 @@ Besides that, some review on restart temperature for other domain,
 
 
 
-RESEARCH METHODOLOGY
+### RESEARCH METHODOLOGY ###
 
-DATA ANALYSIS & RESULT
+### DATA ANALYSIS & RESULT ###
 
-CONCLUSION
+### CONCLUSION ###
 
 ## RESEARCH PROGRESS:
 
@@ -94,6 +94,9 @@ WEEK 1
 * Dr. introduced the dataset for MKP from OR-Libray and, formulate a mathematical model based on the dataset.
 
 WEEK 2 
+
+<img src="https://github.com/nuruLalya67/PortFolio/blob/main/week2.PNG" width="500" height="260"/>
+
 * For week 2, all decision science's student attend our first programmed meeting. The talk is about conducting research subject. 
 * In this talk, Dr. mention to create an e-portfilio and, explain its importants for our sub.
 * Dr. also display all important date such report submission, presentation and so on.
@@ -101,12 +104,16 @@ WEEK 2
 
 WEEK 3
 
+<img src="https://github.com/nuruLalya67/PortFolio/blob/main/week%203.PNG" width="500" height="260"/>
+
 * In the third week, research study start with finding a basic coding of Simulated Annealing (SA) to make improvement in solving MKP.
 * I change our coding using basic SA that used to solve assignment problems for solving MKP.
 * I start with generating initial solution randomly, continue with objective function, generate neighbor, temperature setting and so on.
 
 
 WEEK 4
+
+<img src="https://github.com/nuruLalya67/PortFolio/blob/main/week%204.PNG" width="500" height="260"/>
 
 * After finishing improving basic SA to solve MKP, I run the coding to see the results and there are no error message display, but, it have some error in calculations, and the results for calculated manually is not the same with output in NeatBeans. 
 * Next, we find where the errors and try to fix the problems.   
@@ -121,6 +128,10 @@ WEEK 6
 * From the task given, I managed to find some techniques on how to increase the restart temperature.  
 
 WEEK 7
+
+<img src="https://github.com/nuruLalya67/PortFolio/blob/main/week%207.PNG" width="500" height="260"/>
+
+
 * Disscussion with SV which technique are suitable, and decide to used linear increment, geometric and random number.
 
 * I modified the algorithm to add formula for technique that we decided to do. 
@@ -134,6 +145,9 @@ WEEK 8 & 9
 * For this 2 weeks, I collect 10 dataset in OR-Library and convert to microsoft ecxel and NetBeans.
 
 WEEK 10
+
+<img src="https://github.com/nuruLalya67/PortFolio/blob/main/week%2010.PNG" width="500" height="260"/>
+
 
 * Then, I run each of dataset in NetBeans by using different restart temperature. 
 * For the linear increment, I use 3 different value which is alpha=10, 50 and 100.
@@ -151,6 +165,11 @@ WEEK 11
 
 
 WEEK 12-buat poster
+
+<img src="https://github.com/nuruLalya67/PortFolio/blob/main/week11.PNG" width="500" height="260"/> <img src="https://github.com/nuruLalya67/PortFolio/blob/main/week%2011.2.PNG" width="500" height="260"/>
+
+
+
 * This week I focus more about the content and design of the poster.  
 * Besides that, I also show the poster to my SV of my works to get some advice and approval from madam. 
 
@@ -171,6 +190,9 @@ WEEK 13
 
 
 DECISION SCIENCE SYMPOSIUM DAY
+
+<img src="https://github.com/nuruLalya67/PortFolio/blob/main/WhatsApp%20Image%202023-02-05%20at%201.57.46%20AM.jpeg" width="500" height="260"/>
+
 
 Presentation went well and i can answer the question from my evaluator, Dr Nurul Naziha Hawari and Dr. Aida Benjaamin.
 After the symposium day we need to go dewan seminar 2 for closing ceremony
