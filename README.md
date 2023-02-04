@@ -160,7 +160,7 @@ WEEK 11
 
 
 
-WEEK 12-buat poster
+WEEK 12
 
 <img src="https://github.com/nuruLalya67/PortFolio/blob/main/week11.PNG" width="500" height="260"/> <img src="https://github.com/nuruLalya67/PortFolio/blob/main/week%2011.2.PNG" width="500" height="260"/>
 
