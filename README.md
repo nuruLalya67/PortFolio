@@ -141,6 +141,10 @@ WEEK 10- run the data
 
 WEEK 11- catat 10 kali run
 
+<img src="https://github.com/nuruLalya67/PortFolio/blob/main/week%2011.PNG" width="700" height="350"/>
+
+
+
 
 * untuk setiap 
 * catat satu2 nilai untu acceptance value to 
