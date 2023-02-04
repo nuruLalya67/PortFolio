@@ -194,7 +194,7 @@ WEEK 13
 
 
 
-DECISION SCIENCE SYMPOSIUM DAY
+## DECISION SCIENCE SYMPOSIUM DAY ##
 
 <img src="https://github.com/nuruLalya67/PortFolio/blob/main/WhatsApp%20Image%202023-02-05%20at%201.50.58%20AM.jpeg" width="400" height="700"/>  <img src="https://github.com/nuruLalya67/PortFolio/blob/main/WhatsApp%20Image%202023-02-05%20at%201.57.46%20AM.jpeg" width="500" height="260"/> 
 
