@@ -168,13 +168,13 @@ WEEK 12-buat poster
 
 <img src="https://github.com/nuruLalya67/PortFolio/blob/main/week11.PNG" width="500" height="260"/> <img src="https://github.com/nuruLalya67/PortFolio/blob/main/week%2011.2.PNG" width="500" height="260"/>
 
-
-
 * This week I focus more about the content and design of the poster.  
 * Besides that, I also show the poster to my SV of my works to get some advice and approval from madam. 
 
 
 WEEK 13
+
+<img src="https://github.com/nuruLalya67/PortFolio/blob/main/WhatsApp%20Image%202023-02-05%20at%202.10.22%20AM.jpeg" width="300" height="500"/> <img src="https://github.com/nuruLalya67/PortFolio/blob/main/WhatsApp%20Image%202023-02-05%20at%201.49.26%20AM.jpeg" width="300" height="500"/> 
 
 * For the final consultation on the model and poster, I presented to my supervisor, Dr. Syariza, my final poster before I print out them. 
 
@@ -191,13 +191,13 @@ WEEK 13
 
 DECISION SCIENCE SYMPOSIUM DAY
 
-<img src="https://github.com/nuruLalya67/PortFolio/blob/main/WhatsApp%20Image%202023-02-05%20at%201.57.46%20AM.jpeg" width="500" height="260"/>
+<img src="https://github.com/nuruLalya67/PortFolio/blob/main/WhatsApp%20Image%202023-02-05%20at%201.50.58%20AM.jpeg" width="400" height="700"/>  <img src="https://github.com/nuruLalya67/PortFolio/blob/main/WhatsApp%20Image%202023-02-05%20at%201.57.46%20AM.jpeg" width="500" height="260"/> 
 
 
 Presentation went well and i can answer the question from my evaluator, Dr Nurul Naziha Hawari and Dr. Aida Benjaamin.
 After the symposium day we need to go dewan seminar 2 for closing ceremony
 All of participant, receive the participating certificate.
-Participant that have a good and complete poster got the award ... gold bronze and silver.
+Participant that have a good and complete poster got the award gold, bronze and silver.
 
 
 WEEK 14 
