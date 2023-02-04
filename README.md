@@ -38,6 +38,10 @@ hi there! i'm Nurul alya :wave:
 
 ## RESEARCH DESCRIPTION:
 
+### Introduction ###
+
+Multi-Dimensional knapsack problem (MKP) is a continuation of a basic concept for 0-1 knapsack problem (KP). 0-1 Knapsack is a problem where a subset of n item packed into the knapsack of capacity where the objective is to minimize the total profit of the selected item without going over the knapsack capacity. On the other hand, the MKP is a set of items that must be assign into a knapsack with a certain number of dimensions having each a limited capacity. Each of the item has a profit and knapsack-related weight. The motivation of the MKP is to maximize the total profit of the selected items. 
+
 ### Problem Statement ###
 
 
@@ -63,7 +67,7 @@ The main objective of the study is to propose SA with different restart temperat
  
 The purpose of this study is to propose SA – Restart temperature using different restart temperature to solve MKP. The aim is to provide a better algorithm and performance solution of MKP. The proposed algorithm can be used to solve real application of MKP such as capital budgeting, cargo loading, resource allocation problem, container loading, stock cutting.
 
-### LITERATURE REVIEW ###
+## LITERATURE REVIEW ##
 
 Based on previous studies, there are various mechanism that use metaheuristics to solve MKP such as SA (Fubin and Rui, 2007), GA (Hill and Hiremath, 2005), hybrid approach (Hanafi et al, 2010). Zhou, et al. (2008) that depicts chaotic neural network combined with heuristic strategy. Mian (2012) present how to solve MKP by using a genetic algorithm and constraint handling technique by proposing three genetic algorithm. 
 
@@ -73,7 +77,12 @@ Besides that, some review on restart temperature for other domain,
 
 
 
-### RESEARCH METHODOLOGY ###
+## RESEARCH METHODOLOGY ##
+
+### Research Design ### 
+
+The main objective of this study is to propose improvement of SA using different restart temperature to solve MKP. This study consists of three phases which are problem identification, model development and model validation. The first phase is problem identification to identify the research gap. In the second phase, the SA with different restart temperature will be developed to solve MKP. Lastly, the third phase is to validate the proposed SA with different restart temperature algorithm through experimentation with benchmark instances and comparison with other algorithms proposed in the literature. 
+
 
 ### DATA ANALYSIS & RESULT ###
 
