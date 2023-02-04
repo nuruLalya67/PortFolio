@@ -93,34 +93,34 @@ WEEK 1
 
 * Dr. introduced the dataset for MKP from OR-Libray and, formulate a mathematical model based on the dataset.
 
-WEEK 2 -start buat rangka
+WEEK 2 
 * For week 2, all decision science's student attend our first programmed meeting. The talk is about conducting research subject. 
 * In this talk, Dr. mention to create an e-portfilio and, explain its importants for our sub.
 * Dr. also display all important date such report submission, presentation and so on.
   
 
-WEEK 3- cooding untuk random ang generate neighbor
+WEEK 3
 
 * In the third week, research study start with finding a basic coding of Simulated Annealing (SA) to make improvement in solving MKP.
 * I change our coding using basic SA that used to solve assignment problems for solving MKP.
 * I start with generating initial solution randomly, continue with objective function, generate neighbor, temperature setting and so on.
 
 
-WEEK 4- fix the error
+WEEK 4
 
 * After finishing improving basic SA to solve MKP, I run the coding to see the results and there are no error message display, but, it have some error in calculations, and the results for calculated manually is not the same with output in NeatBeans. 
 * Next, we find where the errors and try to fix the problems.   
 
 
 
-WEEK 6 - bincang howto increase temperature, decide 
+WEEK 6  
 
 * The algorithm has successfully run without error message. After that I started to improve the SA.
 
 * Before I started improving algorithm, my Sv give task for me to find some techniques on how to restart the temperature, when to restat the temperature and, how to improve reheat. 
 * From the task given, I managed to find some techniques on how to increase the restart temperature.  
 
-WEEK 7- 
+WEEK 7
 * Disscussion with SV which technique are suitable, and decide to used linear increment, geometric and random number.
 
 * I modified the algorithm to add formula for technique that we decided to do. 
@@ -133,17 +133,16 @@ WEEK 8 & 9
 
 * For this 2 weeks, I collect 10 dataset in OR-Library and convert to microsoft ecxel and NetBeans.
 
-WEEK 10- run the data
+WEEK 10
 
 * Then, I run each of dataset in NetBeans by using different restart temperature. 
 * For the linear increment, I use 3 different value which is alpha=10, 50 and 100.
 * For tthe geometric also use different value of alpha, alpha=2,4,5.
+* Last is 
 
-WEEK 11- catat 10 kali run
+WEEK 11
 
 <img src="https://github.com/nuruLalya67/PortFolio/blob/main/week%2011.PNG" width="700" height="350"/>
-
-
 
 
 * untuk setiap 
