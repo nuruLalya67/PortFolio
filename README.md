@@ -141,6 +141,7 @@ WEEK 10- run the data
 
 WEEK 11- catat 10 kali run
 * untuk setiap 
+* catat satu2 nilai untu acceptance value to 
 
 
 
