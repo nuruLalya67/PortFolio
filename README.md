@@ -106,7 +106,7 @@ Phase 3: Model Validation
 The SA-Restart temperature is proposed. The algorithm coded in JAVA using Netbeans version 8.2 run on Window 10 with 64-bit operating system and 8 GB RAM. The benchmark instances consists 270 MKPs. The problems were generated with three different item (n) sizes at 100, 250, and\ 500 variables. The constraints (m) were 5, 10, and\ \ 30 (each n with m consisted of 30 scenarios of different capacities and benefits). However, in this study we only consider 10 instances with size 100. The proposed solution were compared with the solution proposed in Chu and Beasley (1998) with the result retrieved from SA-Restart temperature with different restart temperature strategy. The objective of the problem sets is to maximize the total profit while considering multidimensional of capacity constraints. 
 
 
-### DATA ANALYSIS & RESULT ###
+## DATA ANALYSIS & RESULT ##
 
 
 This chapter discusses the findings generated from simulated annealing with different restart temperature models. The discussion starts with experimentation and parameter settings, followed by results and findings. The result generated from both models were compared with the benchmark data reported by Chu and Beasely (1998).
@@ -114,23 +114,51 @@ This chapter discusses the findings generated from simulated annealing with diff
 Result and Findings
 This section presents the result generate from each SA-Restart temperature method with 10 times running and choose the maximum value among the best solutions and the smaller value for standard deviations for each dataset. 
 
-<img src="https://github.com/nuruLalya67/PortFolio/blob/main/flowchart%201.png" width="400" height="650"/>
+<img src="https://github.com/nuruLalya67/PortFolio/blob/main/Capture1.PNG" width="600" height="500"/>
 
 From table 4.2, it shows the result linear increment generate from SA-Restart temperature Algorithm with α = 10, 50, 100 for 10 dataset from 10 time runs and is compared with the general SA in terms of average and standard deviations. The best solution with the maximum objective function for each dataset is highlighted in bold font while the best standard deviation is highlighted in orange colour. The highest value among best solutions for each dataset. After that, we calculated the average and standard deviations to know which alpha are more performed to used in linear increment. From the table linear increment  dataset 7 gets the highest value than other 10 dataset and general SA. For α=10 the higher value are 23342 with average 22078.8 and a standard deviations 744.63. Next, for α=50 are 22410 for the best solutions, 21672.5 for average and 461.27 and the Last is α=100, the best solution are, 22990, 21983.7 for average and 461.21 is for standard deviations. Based on the best solution, it is found that the restart temperature with α=100 is the best where it obtained four best solutions out of 10 instances, followed by the α= 50 with three best solutions out of 10 instances and finally, α=10 with three best solutions out of 10 instances. Next, based on standard deviation, it is found that the restart temperature with α=50 is the good standard deviation where it obtained four best standard deviation out of 10 instances, followed by the α= 100 with three best standard deviation out of 10 instances, the α=10 with two best standard deviation out of 10 instances and finally, the general SA with only one best standard deviations out of 10 instances. 
 
-<img src="https://github.com/nuruLalya67/PortFolio/blob/main/flowchart%201.png" width="400" height="650"/>
+<img src="https://github.com/nuruLalya67/PortFolio/blob/main/Capture2.PNG" width="600" height="500"/>
 
 While, from table 4.3, it shows the result geometric restart temperature generate from SA-Restart temperature Algorithm with α = 2, 4, 5 for 10 dataset from 10 time runs and is compared with the general SA in terms of average and standard deviations. The best solution with the maximum objective function for each dataset is highlighted in bold font while the best standard deviation is highlighted in orange colour. Dataset 7 display the maximum value than other 10 dataset for three different alpha. But for general SA dataset 6 generated the higher value for best solutions which is 21772. For α=2 the best solution are 22695, with average 21738.9 and standard deviations 368.52. Besides, for α=4 the best solutions are 23132 with value for average 22105 and 512.90 for standard deviations. For the last alpha that researcher use is α=5 where the best solution 23379 and standard deviation is 529.21. Based on the best solution, it is found that the restart temperature with  α=5 is the best where it obtained five best solutions out of 10 instances, followed by the α= 2 with four best solutions out of 10 instances and finally, α=4 with one best solutions out of 10 instances.  Next, based on standard deviation, it is found that the restart temperature with α=5 is better standard deviation where it obtained five best standard deviation out of 10 instances, followed by the α= 4 with four best standard deviation out of 10 instances, and finally, the general SA with only one best standard deviations out of 10 instances. 
 
-<img src="https://github.com/nuruLalya67/PortFolio/blob/main/flowchart%201.png" width="400" height="650"/>
+<img src="https://github.com/nuruLalya67/PortFolio/blob/main/Capture3.PNG" width="600" height="500"/>
 
 For table 4.4, it shows the result random number generate from SA-Restart temperature Algorithm for 10 dataset from 10 time runs and is compared with the general SA in terms of average and standard deviations. The best solution with the maximum objective function for each dataset is highlighted in bold font while the best standard deviation is highlighted in orange colour. The highest best solution is dataset 7 with value 22757 and the average 22221.5. Based on the best solution, it is found that the restart temperature with  random number is the best where it obtained seven best solutions out of 10 instances and general SA with three best solutions out of 10 instances. Based on standard deviation, it is found that the restart temperature with random number is better standard deviation where it obtained seven best standard deviation out of 10 instances and the general SA with three best standard deviations out of 10 instances.
 
+<img src="https://github.com/nuruLalya67/PortFolio/blob/main/Capture4.PNG" width="600" height="500"/>
+
+Based on the table 4.5, its found that the best solution among 10 datasets with three different temperature settings is geometric restart temperature. The number of the best solution for geometric restart temperature is five out of 10 instances. It is shown that the higher value of alpha, the higher chances of the best solutions will be found. Hence, the higher the value of alpha the longer it will take to decrement the temperature.
+
+<img src="https://github.com/nuruLalya67/PortFolio/blob/main/Capture5.PNG" width="600" height="500"/>
+
+Based on the result of standard deviation, we found that the highest number of minimum standard deviations among 10 datasets is a linear increment with five out of the 10 instances obtained minimum standard deviation. The smaller result of the standard deviation, it shows that the dataset is consistent and good. Based on a comparison between the standard deviation general SA and SA- restart temperature we found that SA restarts temperature is better than the general SA. 
 
 
+## CONCLUSION ##
 
+### Contributions of the study ### 
+The contributions of this study are listed in the following:
+1.	This study offers a solution which is SA on solving MKP. This solution can be used for very hard computational optimization problems to present a better algorithm for solving MKP and other application of MKP.
+2.	The restart temperature of SA model proposed in this study is suitable to solve MKP and can reduce SA from being suck at local optima. The restart SA model also can be implemented and tested on other combinatorial optimization problems to obtain better solution.
+3.	The study has proven the efficiency of the proposed restart temperature model with three different restart temperature which are linear increment, geometric and random number. Hence, motivating further researcher to develop other methods to solve MKP by using the benchmark dataset published by Chu and Beasley (1998).
 
-### CONCLUSION ###
+### Limitations ### 
+
+This study proven that the restart SA model is indeed suitable for solving MKP, where to increased the temperature is when the solution has improvement. The proposed model is an alternative solution that can be applied to obtain solution for MKP. However, deep programming language is required to build the model as there is no SA application available in the to date. The JAVA NetBeans software in this study portrayed a shortcoming, as some problems required lengthy time, as long as 1 hour, to generated result depending on the computer processing performance. 
+
+### Suggestion for Future Work ###
+
+From the limitations of this study, there are a few proposals for future research: 
+1.	Apart from understanding the concept and the logic behind the approaches to solve problems, researcher should have exceptional programming language knowledge to develop interactive models in solving the problems.
+2.	Although JAVA NetBeans is low in cost and convenient tool for model development and execution, it required lengthy processing time due to computer performance. Hence, it is proposed that other programming language applications should be utilised, such as Python, C++, and R, to minimise processing time.
+3.	For the future research, its motivating next researchers to develop other method such as hybrid SA-TS that an tackle large and complex MKP.
+4.	The proposed model can be implemented for the real application of MKP.
+
+### Conclusion ###
+
+As conclusion, this study reveals that the efficiency of the proposed SA- Restart temperature in solving MKP. This research study proves that the proposed model is indeed efficient as it is comparable with the basic SA result. Based on the result we can conclude that, by improve SA the result is much better than general SA which is without using any restart temperature. Next, in this researcher has been successful produce 0-1 solution which can maximize the total profit while considering the multidimensional of capacity constraints for MKP. Furthermore, the risk of SA being stuck in local optima is reduced by using SA with different restart temperature. Therefore, for the future research, its motivating next researchers to develop other method such as hybrid SA-TS to solving MKP using the benchmark dataset that Chu and Basley presented. Finally, the proposed model in this study can be applied to solve other MKP and also used for further research by other academicians in future.  
+
 
 ## RESEARCH PROGRESS:
 
