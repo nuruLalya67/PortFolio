@@ -79,9 +79,17 @@ Besides that, some review on restart temperature for other domain,
 
 ## RESEARCH METHODOLOGY ##
 
+### Introduction ###
+
+This chapter discusses the research methodology used in this study to solve MKP by improve SA using different restart temperature. It covers on the discussion of research design which is problem identification, model development, model validation and expected finding.
+
 ### Research Design ### 
 
 The main objective of this study is to propose improvement of SA using different restart temperature to solve MKP. This study consists of three phases which are problem identification, model development and model validation. The first phase is problem identification to identify the research gap. In the second phase, the SA with different restart temperature will be developed to solve MKP. Lastly, the third phase is to validate the proposed SA with different restart temperature algorithm through experimentation with benchmark instances and comparison with other algorithms proposed in the literature. 
+
+<img src="https://github.com/nuruLalya67/PortFolio/blob/main/gamPNG.PNG" width="950" height="260"/>
+
+
 
 
 ### DATA ANALYSIS & RESULT ###
